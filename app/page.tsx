@@ -115,7 +115,7 @@ export default function Home() {
 
           <div className="hero-content relative z-10 text-center px-6 max-w-4xl mx-auto mt-20">
             <span className="block font-label text-sm tracking-[0.2em] uppercase mb-6 text-white/80">
-              BeYOUtiful Life Events
+              Event Planner
             </span>
 
             <h1 className="font-headline text-5xl md:text-7xl lg:text-8xl leading-tight mb-8 drop-shadow-md text-white">
@@ -162,9 +162,8 @@ export default function Home() {
                 <p>
                   We believe that a truly beautiful event is more than just
                   visual perfection; it is a sensory experience crafted with
-                  intention. At BeYOUtiful Life Events, we approach every
-                  celebration as a blank canvas, ready to be painted with your
-                  unique story.
+                  intention. At Event Planner, we approach every celebration as
+                  a blank canvas, ready to be painted with your unique story.
                 </p>
                 <p>
                   Our philosophy is rooted in romantic minimalism—where every

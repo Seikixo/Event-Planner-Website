@@ -10,7 +10,7 @@ export function Footer() {
             className="font-serif text-xl text-surface-tint dark:text-primary-container"
             href="/"
           >
-            Beyoutiful Life Events
+            Event Planner
           </Link>
         </div>
         <div className="flex flex-col md:flex-row gap-6 md:justify-center font-sans text-xs tracking-widest uppercase">
@@ -40,7 +40,7 @@ export function Footer() {
           </Link>
         </div>
         <div className="md:text-right font-sans text-xs tracking-widest uppercase text-on-surface-variant dark:text-stone-400">
-          © 2026 Beyoutiful Life Events. Curated with intention.
+          © 2026 Event Planner. Curated with intention.
         </div>
       </div>
     </footer>

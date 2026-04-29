@@ -31,7 +31,7 @@ export default function Portfolio() {
         </h1>
         <p className="font-body text-lg text-on-surface-variant max-w-2xl mx-auto leading-relaxed tracking-wide">
           A visual anthology of intimate gatherings and meticulously crafted
-          moments by BeYOUtiful Life Events.
+          moments by Event Planner.
         </p>
       </section>
 

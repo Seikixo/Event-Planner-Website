@@ -21,7 +21,7 @@ export function NavigationBar() {
           className="font-serif text-2xl italic tracking-tighter text-on-surface drop-shadow-sm"
           href="/"
         >
-          Beyoutiful Life Events
+          Event Planner
         </Link>
         <div className="hidden md:flex items-center space-x-8 font-serif text-sm tracking-widest uppercase">
           {navLinks.map((link) => (

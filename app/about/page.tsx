@@ -89,9 +89,9 @@ export default function About() {
               <i className="text-primary-container">unforgettable.</i>
             </h1>
             <p className="font-body text-on-surface-variant text-lg leading-relaxed mb-10 max-w-md">
-              BeYOUtiful Life Events was born from a desire to transcend
-              traditional planning, creating sanctuaries of celebration that
-              reflect the deepest, most authentic essence of our clients.
+              Event Planner was born from a desire to transcend traditional
+              planning, creating sanctuaries of celebration that reflect the
+              deepest, most authentic essence of our clients.
             </p>
           </div>
           <div className="lg:col-span-7 relative h-[614px] lg:h-[819px] w-full rounded-xl overflow-hidden shadow-[0_20px_50px_rgba(27,28,26,0.04)] hero-image">
@@ -129,9 +129,9 @@ export default function About() {
             <div className="space-y-6 text-on-surface-variant font-body leading-relaxed">
               <p>
                 With over a decade of experience designing luxury experiences
-                across the globe, The Founder founded BeYOUtiful Life Events to
-                bring a deeply personal, editorial eye to life&apos;s most
-                meaningful milestones.
+                across the globe, The Founder founded Event Planner to bring a
+                deeply personal, editorial eye to life&apos;s most meaningful
+                milestones.
               </p>
               <p>
                 Her approach is rooted in the belief that true luxury isn&apos;t

@@ -5,7 +5,7 @@ import { NavigationBar } from "@/components/NavigationBar";
 import { Footer } from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "BeYOUtiful Life Events | Creating Beautiful Life Moments",
+  title: "Event Planner | Creating Beautiful Life Moments",
   description:
     "Curating intimate gatherings and grand celebrations with intentional design, transforming your most cherished milestones into timeless memories.",
 };
