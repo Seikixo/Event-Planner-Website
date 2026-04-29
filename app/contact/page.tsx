@@ -130,9 +130,9 @@ export default function Contact() {
                   </p>
                   <a
                     className="font-body text-primary hover:text-primary-container transition-colors"
-                    href="mailto:hello@beyoutiful.com"
+                    href="mailto:hello@eventplanner.com"
                   >
-                    hello@beyoutiful.com
+                    hello@eventplanner.com
                   </a>
                 </div>
               </div>
